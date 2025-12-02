@@ -175,7 +175,63 @@ These phrases are not special commands at the platform level, but Cline should t
 
 ---
 
-## 4. Relationship to Other Memory-Bank Files
+## 4. Using `newtask` with This Workflow
+
+The `newtask` command is useful when you want to start a **fresh, session-sized unit of work** that has its own plan and history, while still drawing on the existing memory bank and topic files.
+
+Use `newtask` especially in these situations:
+
+### 4.1 Starting a New Topic
+
+When you begin work on a new doctrinal locus or major subtopic (e.g., moving from predestination to the problem of evil):
+
+- Create a new task with a short description such as:
+  - "Explore the problem of evil using our notes/doctrine workflow."
+- In that new task, Cline will:
+  - Re-read the memory bank core files.
+  - Check for `topic.md` and `topic-notes.md`.
+  - Proceed with Phase A/B (Setup → Define the option space) for that topic.
+
+### 4.2 Beginning a Major New Phase on an Existing Topic
+
+Use `newtask` when you shift to a qualitatively different phase of work on the same topic, for example:
+
+- Moving from **exploration** to **normalization**:
+  - e.g., "Draft a normalized doctrine file for [topic] from the notes."
+- Moving from **normalization** to **cross-locus integration**:
+  - e.g., "Review how predestination, salvation, and problem of evil fit together and tighten cross-links."
+
+This keeps each phase’s plan and history clear and self-contained.
+
+### 4.3 After a Long Break or Conceptual Shift
+
+After a long gap or a significant change in your overall method/goals, start a new task so Cline can:
+
+- Summarize what has been done so far.
+- Rebuild a fresh plan for the next block of work.
+
+You can combine this with the magic phrase **"Pick up our work on [topic]"** inside the new task. Cline will then:
+
+1. Re-read the memory bank.
+2. Read `topic.md` and `topic-notes.md`.
+3. Summarize the current state and suggest next steps.
+
+### 4.4 Granularity Guidelines
+
+- Use **magic phrases** within a task to move between phases (create notes, snapshot, draft doctrine, update doctrine, pick up work, etc.).
+- Use **`newtask`** when you want:
+  - A new, focused plan and conversation history, or
+  - To treat a new topic or major phase as a distinct unit of work.
+
+A reasonable default is 1–3 tasks per topic, for example:
+
+- Task 1: Explore the topic and create/populate `[topic]-notes.md`.
+- Task 2: Draft the normalized `topic.md` from the notes.
+- Task 3 (optional): Revisit the topic later to update the doctrine file after further study.
+
+---
+
+## 5. Relationship to Other Memory-Bank Files
 
 - `systemPatterns.md` defines the **content patterns** (e.g., Doctrine File Normalization Pattern).
 - `doctrine-normalization-template.md` provides a **copy-pasteable skeleton** for normalized doctrine files.
