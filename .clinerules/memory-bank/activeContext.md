@@ -22,7 +22,7 @@ _Last updated: initialization of repo-local memory bank._
 
 When returning to this project, likely next useful moves include:
 
-1. **Normalize structure** across key doctrine files (headings like: background, survey of views, adopted position, objections/open questions).
+1. **Normalize structure** across key doctrine files (headings like: background, survey of views, adopted position, objections/open questions), following the **Doctrine File Normalization Pattern** in `systemPatterns.md` and the template in `doctrine-normalization-template.md`.
 2. **Cross-link topics** where doctrinally relevant (e.g., `predestination.md` with `salvation.md`, `problem-of-evil.md`, and `God-and-time.md`).
 3. **Clarify adopted positions vs. open questions** in each locus, using explicit labels.
 

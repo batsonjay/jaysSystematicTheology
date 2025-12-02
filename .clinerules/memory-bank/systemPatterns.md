@@ -30,12 +30,35 @@ These conventions describe the *intended* style; the actual files may not always
   - “Deferred / open question”
 - Keep tone charitable and historically informed, reflecting the aims described in the memory-bank `productContext.md`.
 
+## Doctrine File Normalization Pattern
+
+For locus-level doctrine files (e.g., `predestination.md`, `salvation.md`, `problem-of-evil.md`, `God-and-time.md`), the default **normalized structure** is:
+
+1. **Background and biblical foundations**
+2. **Survey of major views**
+3. **Evaluation and arguments**
+4. **Adopted position(s)**
+5. **Implications / pastoral considerations** (optional but encouraged)
+6. **Objections and responses**
+7. **Open questions / deferred issues**
+
+When **normalizing** a doctrine file, the assistant should:
+
+- Preserve all substantive content, relocating it under these headings rather than deleting it.
+- Make the **survey → evaluate → adopt/defer** pattern explicit in the sectioning and labels.
+- Mark the **adopted view** clearly (even if provisional) and keep room for revision.
+- Add or strengthen cross-links to closely related loci where helpful (e.g., predestination ↔ salvation ↔ problem of evil ↔ God and time, anthropology, divine attributes).
+- Clearly label sections or bullets that are still **in progress** or **deferred/open questions**.
+
+Normalizing is about bringing a file into a **clear, reusable spine**, not about forcing premature closure on contested doctrines.
+
 ## How Cline Should Use This File
 
 - Use these patterns to keep new or edited documents structurally consistent.
 - When adding content, ask:
   - Does this follow the *survey → evaluate → adopt/defer* pattern where appropriate?
   - Is it clear what is **adopted** vs. **still under exploration**?
+- When a doctrine file’s structure is jumbled or ad hoc, **normalize** it to the standard outline above, preserving content and marking open questions.
 - When in doubt about overall structure, consult:
 
   - [`README.md`](../../README.md)

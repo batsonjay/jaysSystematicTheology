@@ -24,3 +24,4 @@ There is **no build system, runtime, or deployment pipeline** associated with th
   - Clear file naming and topic boundaries.
   - Consistent internal structure across doctrine files.
   - Helpful cross-linking between related topics.
+- For the detailed **interaction workflow** between Jay and Cline (including magic phrases and topic-notes conventions), see `cline-workflow.md` in this directory.
