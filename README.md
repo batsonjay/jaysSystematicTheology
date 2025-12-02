@@ -8,6 +8,18 @@ Atypically for a Cline-related project, there is **no code** here: the value is 
 
 The context for this project is driven by its purpose more than by any technical requirements.
 
+### Motivating Questions
+
+Humans are inclined to ask questions:
+- Where did world come from?
+- What is the purpose of human existence?
+- Is there anything “more” than this?
+- Is there a meaning of life, and if so, what is it?
+- Should I believe that (a) God exists? If so, what does that mean - for the world, or for me?
+- How should one live?
+
+This is similar to philosophy, but answered via a reasoned basis of the existence of God made known via Israel & revealed in Christ Jesus. Theology can be called “highest philosophy” - the way to lead life - so we should be intentional about developing it.
+
 ### Three key purposes
 
 1. **Personal Learning and Discernment**  
