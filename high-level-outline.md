@@ -3,7 +3,7 @@
 - Introduction  
 - [`Arguments for the Existence of God`](god-existence.md)
 - Revelation  
-- Nature and Attributes of God  
+- [`Nature and Attributes of God`](God-nature-and-attributes/God-nature-and-attributes.md)  
 - The Trinity  
 - Christology  
 - The Problem of Evil and Human Choice  
