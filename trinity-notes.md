@@ -48,7 +48,11 @@ _(You can populate or refine this as you go.)_
 
 ### ChatGPT Conversation Transcript (Imported)
 
-**AI discussion:** The doctrine of the Trinity is one of the most complex and distinctive doctrines in Christian theology. Here's an overview of the major branches of theological thought concerning the Trinity:
+#### Exchange 1 - Overview of major Trinitarian views
+
+**Prompt:** The next aspect I’d like to go over is the concept of the Trinity. Let’s start with your usual outline of the major branches of theological thought.
+
+**AI response (AI reply):** The doctrine of the Trinity is one of the most complex and distinctive doctrines in Christian theology. Here's an overview of the major branches of theological thought concerning the Trinity:
 
 1. **Orthodox Trinitarianism:**
    - **Nicene Creed:** Affirms the co-equality and co-eternity of three Persons within one Godhead, encapsulating the Father, Son, and Holy Spirit. This is the orthodox position held by the majority of Christian denominations.
@@ -79,7 +83,7 @@ Each of these views approaches the Trinity with different emphases, trying to ba
 
 ---
 
-#### Exchange 1 - Constitutional model
+#### Exchange 2 - Constitutional model
 
 **Prompt:** Is one of these you mention above also named the "Constitutional model", or is that yet another trinitarian model?
 
@@ -95,7 +99,7 @@ If this model interests you, I could integrate aspects of it that align with ort
 
 ---
 
-#### Exchange 2 - Constitutional model and Christology
+#### Exchange 3 - Constitutional model and Christology
 
 **Prompt:** This topic of course connects with Christology. For the moment, discuss the Constitutional model's view on Christology.
 
@@ -119,7 +123,7 @@ Given the complexities and the risks of misunderstanding, theologians who might 
 
 ---
 
-#### Exchange 3 - Barth, Tillich, Polkinghorne, Craig
+#### Exchange 4 - Barth, Tillich, Polkinghorne, Craig
 
 **Prompt:** What positions on this do Karl Barth, Paul Tillich, John Polkinghorne and William Lane Craig, respectively, take on this?
 
@@ -141,7 +145,7 @@ Each of these thinkers engages with the doctrines of the Trinity and Christology
 
 ---
 
-#### Exchange 4 - N. T. Wright
+#### Exchange 5 - N. T. Wright
 
 **Prompt:** Describe also the position of N. T. Wright.
 
@@ -159,7 +163,7 @@ N. T. Wright's scholarship is influential because it seeks to bridge the gap bet
 
 ---
 
-#### Exchange 5 - Dallas Willard
+#### Exchange 6 - Dallas Willard
 
 **Prompt:** This is an interesting survey. Let's look at a couple more. Describe the views of Dallas Willard on the Trinity & christology.
 
@@ -177,7 +181,7 @@ If you find aspects of Dallas Willard's approach to the Trinity and Christology 
 
 ---
 
-#### Exchange 6 - Alvin and Richard Plantinga
+#### Exchange 7 - Alvin and Richard Plantinga
 
 **Prompt:** More views, please. Alvin Plantinga and Richard Plantinga respectively, please.
 
@@ -203,7 +207,7 @@ The views of Alvin and Richard Plantinga might provide philosophical and theolog
 
 ---
 
-#### Exchange 7 - R. C. Sproul
+#### Exchange 8 - R. C. Sproul
 
 **Prompt:** Perhaps the views of R. C. Sproul?
 
@@ -221,7 +225,7 @@ If R.C. Sproul's perspectives align with your theological leanings, especially i
 
 ---
 
-#### Exchange 8 - NT use of "person"
+#### Exchange 9 - NT use of "person"
 
 **Prompt:** I think I am close to choosing a view of Trinity & christology. However, before I describe / choose, I'm finding myself struggling with the use of the word "person" when describing the three "persons" of God. Is there any place in the New Testament gospels where the authors refer to the Trinity & use Greek equivalent of the English word "person"?
 
@@ -241,7 +245,7 @@ Understanding the term "person" in this Trinitarian context requires a nuanced a
 
 ---
 
-#### Exchange 9 - History of Trinitarian terminology
+#### Exchange 10 - History of Trinitarian terminology
 
 **Prompt:** Develop more the history you allude to in the paragraph above beginning with"the formal development'.
 
@@ -274,7 +278,7 @@ Would you like to delve into any specific aspect of this historical development 
 
 ---
 
-#### Exchange 10 - Comparison with Eastern Orthodoxy
+#### Exchange 11 - Comparison with Eastern Orthodoxy
 
 **Prompt:** This history primarily tracks western Christianity; how does this compare with Eastern Orthodoxy?
 
@@ -306,7 +310,7 @@ If you'd like to explore how these Eastern Orthodox perspectives could inform or
 
 ---
 
-#### Exchange 11 - Lee Strobel
+#### Exchange 12 - Lee Strobel
 
 **Prompt:** There is an author named STROBEL who has written a book, called the case for Christ. What would his view on Christology be?
 
@@ -332,7 +336,7 @@ If this approach to Christology resonates with you or you see it complementing y
 
 ---
 
-#### Exchange 12 - Drafting Trinity and Christology statements
+#### Exchange 13 - Drafting Trinity and Christology statements
 
 **Prompt:** For now, I am leaning towards adopting William Lane Craig's view as you describe above, though I would like you to craft more completely a paragraph long statement on the nature of the Trinity as it derives from my choice for the relationship between God and time (which differs from Craig's). You should do the same for Christology based on this same logic.
 
@@ -348,7 +352,7 @@ These statements seek to harmonize Craig's views with your understanding of God'
 
 ---
 
-#### Exchange 13 - Updating system with new positions
+#### Exchange 14 - Updating system with new positions
 
 **Prompt:** Add this to my system, please. Also, I have done some more thinking about the topic of predestination above, and would like to change my system to incorporate molinism instead of my prior choice of Arminianism.
 
@@ -367,7 +371,7 @@ These adjustments provide a comprehensive and coherent framework in your systema
 
 ---
 
-#### Exchange 14 - Removing "person" language
+#### Exchange 15 - Removing "person" language
 
 **Prompt:** In your statement of Trinity & christology, please modify it in a nuanced way to eliminate the use of the word "person", since I struggle with this (as indicated by my inquiry above). Instead, use language that is consistent with my choice on God's relationship to time (meta-time) and middle-knowledge.
 
