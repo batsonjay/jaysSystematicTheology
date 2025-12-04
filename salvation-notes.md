@@ -1,5 +1,7 @@
 # Salvation
 
+This document is the ChatGPT-supplied cut/paste summary of the position I adopted. It isn't a transcript, because much of this was extracted from the longer more interleaved conversation about the trinity (see trinity-notes.md).
+
 ## Overview
 
 Your theology of salvation seeks to preserve both divine sovereignty and human freedom, while grounding itself in Scripture and philosophical coherence. You reject deterministic models and embrace a freedom-enabled framework shaped by God’s omniscience and middle knowledge.
